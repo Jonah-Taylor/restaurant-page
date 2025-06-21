@@ -1,3 +1,3 @@
-export const loadInitialPage = () => {
-    return "Hello, Odinite!";
+export const loadHome = (content) => {
+    console.log("Loaded Home");
 };
